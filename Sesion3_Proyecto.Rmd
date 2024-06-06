@@ -3,7 +3,7 @@ title: "Defunciones por cáncer en México"
 output: html_document
 always_allow_html: true
 date: "2024-06-04"
-author: "Estudiante"
+author: "Angelica Canto"
 ---
 
 ```{r preparacion, echo = FALSE, message=FALSE}
