@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Establece la carpeta del proyecto como variable de entorno
-export DIR_PROYECTO=~/Documentos/R/emtech_productivity/proy_prod/
+export DIR_PROYECTO=~/Documentos/R/NOL/proy_prod/
 
 # Navega a la carpeta del proyecto
 cd $DIR_PROYECTO
